@@ -8,7 +8,7 @@ from tkinter.filedialog import asksaveasfilename
 import mysql.connector as co
 
 #Initialized database
-db=co.connect(host="localhost",user="root",passwd="20_MySQL_$=0")
+db=co.connect(host="localhost",user="root",passwd="password")
 mc=db.cursor(buffered=True)
 
 
