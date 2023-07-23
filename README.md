@@ -1,4 +1,4 @@
-# Teacher's Register 📔
+# Teacher's Register 📔 🖋️
 <p> <strong>Version:</strong> 1.0</p>
 <p><strong>Python version:</strong> 3.7.4 or above</p>
 <p><strong>Framework:</strong> Tkinter</p>
